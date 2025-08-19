@@ -1,2 +1,2 @@
 # homework
-homework in smbu
+homework in smbu.
